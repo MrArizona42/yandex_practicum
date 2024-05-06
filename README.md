@@ -11,7 +11,7 @@ Another EDA project. The goal was to explore the data of real estate sales adver
 **Classical ML projects**
 - [Client churn prediction in telecom - classification project](https://github.com/MrArizona42/yandex_practicum/tree/main/ml_final_telecom_project)  
 The goal of the project was - to build a model that would predict client's leave using some history data.
-- [Oil production revenue - regression project (coming soon)]()  
+- [Oil production revenue - regression project](https://github.com/MrArizona42/yandex_practicum/tree/main/ml_oil_production_revenue)  
 The goal of this project was to investigate the data of geological exploration in several regions and build a model that would predict the amount of oil that can be produced in the region. This information can help choose the most productive region.
 - [Gold mining - regression project (coming soon)]()  
 The goal of this project was to predict the recovery rate in gold mining process. This information can help optimize the production line and elimimnate possible losses.
